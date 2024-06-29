@@ -1,0 +1,99 @@
+2024-06-28 12:49:42 [restartedMain] INFO  com.deploy.GuruDeployApplication - Starting GuruDeployApplication using Java 17.0.2 on DESKTOP-U7MSH0C with PID 4684 (C:\Apache\webapps_linux\USB Kingston\SPRING BOOT\auto_deploy\guru_deploy\target\classes started by HP in C:\Apache\webapps_linux\USB Kingston\SPRING BOOT\auto_deploy\guru_deploy)
+2024-06-28 12:49:42 [restartedMain] INFO  com.deploy.GuruDeployApplication - The following 1 profile is active: "sangwa"
+2024-06-28 12:49:43 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-28 12:49:43 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-28 12:49:45 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-06-28 12:49:46 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 373 ms. Found 1 JPA repository interfaces.
+2024-06-28 12:49:48 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8085 (http)
+2024-06-28 12:49:48 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-28 12:49:48 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2024-06-28 12:49:48 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/deploy] - Initializing Spring embedded WebApplicationContext
+2024-06-28 12:49:48 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5546 ms
+2024-06-28 12:49:49 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-06-28 12:49:49 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2024-06-28 12:49:50 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-06-28 12:49:50 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-06-28 12:49:51 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-06-28 12:49:51 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MariaDBDialect
+2024-06-28 12:49:54 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-06-28 12:49:54 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-06-28 12:49:56 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-06-28 12:49:59 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2024-06-28 12:49:59 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8085 (http) with context path '/deploy'
+2024-06-28 12:49:59 [restartedMain] INFO  com.deploy.GuruDeployApplication - Started GuruDeployApplication in 19.72 seconds (JVM running for 22.952)
+2024-06-28 12:50:42 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-28 12:50:42 [Thread-1] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-06-28 12:50:42 [Thread-1] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-06-28 12:50:42 [Thread-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-06-28 12:50:42 [Thread-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-06-28 12:50:43 [restartedMain] INFO  com.deploy.GuruDeployApplication - Starting GuruDeployApplication using Java 17.0.2 on DESKTOP-U7MSH0C with PID 4684 (C:\Apache\webapps_linux\USB Kingston\SPRING BOOT\auto_deploy\guru_deploy\target\classes started by HP in C:\Apache\webapps_linux\USB Kingston\SPRING BOOT\auto_deploy\guru_deploy)
+2024-06-28 12:50:43 [restartedMain] INFO  com.deploy.GuruDeployApplication - The following 1 profile is active: "sangwa"
+2024-06-28 12:50:44 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-06-28 12:50:44 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 130 ms. Found 1 JPA repository interfaces.
+2024-06-28 12:50:45 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8085 (http)
+2024-06-28 12:50:45 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-28 12:50:45 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2024-06-28 12:50:46 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/deploy] - Initializing Spring embedded WebApplicationContext
+2024-06-28 12:50:46 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2741 ms
+2024-06-28 12:50:46 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-06-28 12:50:46 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2024-06-28 12:50:47 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2024-06-28 12:50:47 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MariaDBDialect
+2024-06-28 12:50:47 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-06-28 12:50:47 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-06-28 12:50:48 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-06-28 12:50:49 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2024-06-28 12:50:49 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8085 (http) with context path '/deploy'
+2024-06-28 12:50:49 [restartedMain] INFO  com.deploy.GuruDeployApplication - Started GuruDeployApplication in 6.631 seconds (JVM running for 72.616)
+2024-06-28 12:50:49 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-06-28 13:19:46 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-06-28 13:19:46 [Thread-5] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2024-06-28 13:19:46 [Thread-5] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-06-28 13:19:46 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2024-06-28 13:19:46 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2024-06-28 13:19:46 [restartedMain] INFO  com.deploy.GuruDeployApplication - Starting GuruDeployApplication using Java 17.0.2 on DESKTOP-U7MSH0C with PID 4684 (C:\Apache\webapps_linux\USB Kingston\SPRING BOOT\auto_deploy\guru_deploy\target\classes started by HP in C:\Apache\webapps_linux\USB Kingston\SPRING BOOT\auto_deploy\guru_deploy)
+2024-06-28 13:19:46 [restartedMain] INFO  com.deploy.GuruDeployApplication - The following 1 profile is active: "sangwa"
+2024-06-28 13:19:46 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-06-28 13:19:47 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 111 ms. Found 1 JPA repository interfaces.
+2024-06-28 13:19:47 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8085 (http)
+2024-06-28 13:19:47 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-28 13:19:47 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2024-06-28 13:19:47 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/deploy] - Initializing Spring embedded WebApplicationContext
+2024-06-28 13:19:47 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1012 ms
+2024-06-28 13:19:47 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-06-28 13:19:47 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2024-06-28 13:19:47 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2024-06-28 13:19:47 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MariaDBDialect
+2024-06-28 13:19:47 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-06-28 13:19:47 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-06-28 13:19:47 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-06-28 13:19:49 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2024-06-28 13:19:49 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8085 (http) with context path '/deploy'
+2024-06-28 13:19:49 [restartedMain] INFO  com.deploy.GuruDeployApplication - Started GuruDeployApplication in 2.983 seconds (JVM running for 1812.235)
+2024-06-28 13:19:49 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-06-28 13:20:43 [restartedMain] INFO  com.deploy.GuruDeployApplication - Starting GuruDeployApplication using Java 17.0.2 on DESKTOP-U7MSH0C with PID 7516 (C:\Apache\webapps_linux\USB Kingston\SPRING BOOT\auto_deploy\guru_deploy\target\classes started by HP in C:\Apache\webapps_linux\USB Kingston\SPRING BOOT\auto_deploy\guru_deploy)
+2024-06-28 13:20:43 [restartedMain] INFO  com.deploy.GuruDeployApplication - The following 1 profile is active: "sangwa"
+2024-06-28 13:20:43 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-28 13:20:43 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-28 13:20:45 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-06-28 13:20:45 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 230 ms. Found 1 JPA repository interfaces.
+2024-06-28 13:20:47 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8085 (http)
+2024-06-28 13:20:47 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-06-28 13:20:47 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.71]
+2024-06-28 13:20:47 [restartedMain] INFO  o.a.c.c.C.[.[localhost].[/deploy] - Initializing Spring embedded WebApplicationContext
+2024-06-28 13:20:47 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3872 ms
+2024-06-28 13:20:47 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-06-28 13:20:48 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.15.Final
+2024-06-28 13:20:48 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-06-28 13:20:48 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-06-28 13:20:48 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-06-28 13:20:48 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MariaDBDialect
+2024-06-28 13:20:50 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-06-28 13:20:50 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-06-28 13:20:51 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-06-28 13:20:53 [restartedMain] WARN  o.s.b.d.a.OptionalLiveReloadServer - Unable to start LiveReload server
+2024-06-28 13:20:53 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8085 (http) with context path '/deploy'
+2024-06-28 13:20:53 [restartedMain] INFO  com.deploy.GuruDeployApplication - Started GuruDeployApplication in 10.35 seconds (JVM running for 11.23)
+2024-06-28 13:30:37 [http-nio-8085-exec-1] INFO  o.a.c.c.C.[.[localhost].[/deploy] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-28 13:30:37 [http-nio-8085-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-06-28 13:30:37 [http-nio-8085-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms

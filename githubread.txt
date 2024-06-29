@@ -1,0 +1,21 @@
+single word combined to other file le
+
+extension ->word->file-> total_ocurance
+	izadufasha kumenya ijambo ryagiye rigaruka ku bwoko bwa file(ubwoko bwa file ni ukuvuga ngo file imenywe bitewe na extension yayo extension yayo
+word->language
+	izadufasha kumenya amagambo akunda kugaragara muri language runaka
+word->platform
+	izadufasha kumenya amagambo akunda kugaragara kuri buri platform
+platform
+	gukora table ya platform
+
+gukora table yihariye ya programming language
+
+
+
+programming language field will removed in project table
+framework will removed in project table
+
+
+hagomba kuboneka uburyo uruhererekane rwijambo uko ryagiye riboneka mu ma files atandukanye
+tuzashyira ho description cg meaning yikintu cyagaragaye kenshi(total occurance)
